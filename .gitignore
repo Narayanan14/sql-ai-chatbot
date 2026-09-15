@@ -17,6 +17,9 @@ __pycache__/
 #Demo files
 demo.py
 
+#Others
+Others/
+
 # IDE / OS files
 .vscode/
 .idea/
